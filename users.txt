@@ -1,0 +1,8 @@
+1,Alice,30
+1, ahmed ,34
+2,Bob,25
+2, achref ,19
+3,Charlie,35
+3, ghayth ,23
+4, youssef ,21
+5, ayoub ,24

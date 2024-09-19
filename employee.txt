@@ -1,0 +1,6 @@
+id, nom , dateNaissance
+1 , ahmed , 12-02-1990
+2 , achref , 11-01-2005
+3 , ghayth , 12-01-2001
+4 , youssef , 18-02-2003
+5 , ayoub , 11-10-2000
